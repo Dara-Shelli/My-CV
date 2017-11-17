@@ -1,0 +1,83 @@
+body {
+  width: 100%;
+  background-image: url(hip-square.png);
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Montserrat', sans-serif;
+   }
+
+    strong{
+      font-size: 30px;
+
+    }
+   .infophoto{
+     height: 250px;
+     /*margin-right: 300px;*/
+     width: 100%;
+
+   }
+
+  .info{
+    float: left;
+    margin-left: 50px;
+    width: 50%;
+  }
+
+  .photo{
+    float: right;
+    display: inline-block;
+    margin-right: 50px;
+  }
+
+.photo img{
+  float: right;
+  margin-right: 0;
+}
+  .section{
+    margin-bottom: 70px;
+    margin-left: 50px;
+    margin-right: 100px;
+    }
+
+  .sec-left{
+    float: left;
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .sec-left p{
+    margin-top: 0;
+  }
+
+  .strong {
+    font-size: 26px;
+  }
+
+.sec-right{
+  margin-left: 150px;
+  margin-top: 0;
+}
+
+.section{
+  margin-bottom: 70px;
+  text-align: justify;
+}
+
+h2{
+  color:#191970;
+  text-transform: uppercase;
+  border-bottom: 3px solid #A0522D;
+}
+
+
+.titre{
+  font-weight: bold;
+  font-size: 16px;
+  }
+
+p.paragraph-margin{
+  margin-top: 35px;
+}
+#paragraph-margin-long{
+  margin-top: 55px;
+    }
